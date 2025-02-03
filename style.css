@@ -21,8 +21,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: calc(0.75em + 1vmin);
-    /*add texto responsive*/
 }
 
 .main-content {
